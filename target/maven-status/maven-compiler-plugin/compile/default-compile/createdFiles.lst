@@ -1,5 +1,0 @@
-com\decagon\stageone\service\util\ConfigProperties.class
-com\decagon\stageone\model\User.class
-com\decagon\stageone\service\UserService.class
-com\decagon\stageone\controller\UserController.class
-com\decagon\stageone\service\util\HttpUtil.class
